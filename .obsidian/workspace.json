@@ -64,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad1f50c1fdfeddc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature and Topics Notes/Technical writing/What is technical writing.md",
+                "file": "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature and Topics Notes/Technical writing/What is technical writing.md",
+                "file": "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature and Topics Notes/Technical writing/What is technical writing.md"
+                "file": "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md"
               }
             }
           }
@@ -193,12 +205,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3e2a049d8f33f24",
+  "active": "ad1f50c1fdfeddc0",
   "lastOpenFiles": [
+    "2. Literature and Topics Notes/Technical writing/Audience and Purpose.md",
+    "2. Literature and Topics Notes/Technical writing/What is technical writing.md",
     "4. Distilled Notes/10 things to know before developing app with cloud native.md",
     "5. Creation and Ideas/Mobile app ideas.md",
     "Pasted image 20230223162544.png",
-    "2. Literature and Topics Notes/Technical writing/What is technical writing.md",
     "Roadmap to Devops.md",
     "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
     "2. Literature and Topics Notes/Technical writing",

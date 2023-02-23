@@ -11,9 +11,28 @@ Different careers generate different kinds of reports
 
 ### Expository writing
 Writing to explain or inform sth.
+
+### Academic writing vs Technical writing
+same: unified, coherent, and well organized.
+
+aw : Expository and persuasive writing done in academic circles. main-diff: The presentation, audience, and approach. Academic writing includes paragraphs—usually an introductory paragraph, paragraphs that develop a thesis (a statement of purpose), and a concluding paragraph. Academic writing is written for an academic audience—an instructor, classmates, or a group of interested scholars.
+
+tw : Technical writing also includes paragraphs. It, too, often begins with an introduction and closes with a conclusion. But technical writing (with its headings, itemized lists, boldfaced type, and graphics) looks different from academic writing. Technical writing is written for a specifi c audience. The subject is generally technical, business-related, or scientifi cally oriented. Generally, there is less fl exibility in the subject matter, style, and tone. Often the intent is to clarify and consolidate rather than expand
+
+### Imaginative writing vs Technical writing
+Imaginative writing includes novels, short stories, drama, and poetry whose situations grow out of fantasy or imagination. Events and people are fi ctional, although the themes may reveal universal truths. Imaginative writing is often ambiguous.
+Imaginative writing also requires the reader to draw inferences, which are judgments about the reading that the writer does not make for the reader
+
+Technical writing should be unambiguous and direct.
+
+
+### Jargon 
+The high specialized language of particular discipline.
 ### Characteristics of technical writing 
 Subject
 Audience
 Organization
 Style
+Tone
+Special Features
 
