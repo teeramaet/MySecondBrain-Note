@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,6 +161,8 @@
   },
   "active": "0ad42072c1af8c97",
   "lastOpenFiles": [
+    "Pasted image 20230223162544.png",
+    "images.gitignore",
     "2. Literature and Topics Notes/Cloud computing class/6. Kubernetes.md",
     "2. Literature and Topics Notes/Cloud computing class/7. Cloud Resource-management.md",
     "2. Literature and Topics Notes/Cloud computing class/5. MESOS-OMEGA.md",
