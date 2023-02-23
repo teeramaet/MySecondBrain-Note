@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2320eae4a9f3dc0",
+        "id": "f1a5ccdfb12f07bc",
         "type": "tabs",
         "children": [
           {
-            "id": "bb9a884355a88d9a",
+            "id": "0ad42072c1af8c97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtualization.md",
+                "file": "Cloud computing class/Cloud Resource-management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtualization.md",
+                "file": "Cloud computing class/Cloud Resource-management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtualization.md",
+                "file": "Cloud computing class/Cloud Resource-management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtualization.md"
+                "file": "Cloud computing class/Cloud Resource-management.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb9a884355a88d9a",
+  "active": "0ad42072c1af8c97",
   "lastOpenFiles": [
-    "Virtualization.md"
+    "Cloud computing class/Cloud Resource-management.md",
+    "Cloud computing class/MESOS-OMEGA.md",
+    "Cloud computing class/Spark.md",
+    "Cloud computing class/Kubernetes.md",
+    "Cloud computing class",
+    "Cloud computing class/MapReduce.md",
+    "Cloud computing class/Introduction2Cloud.md",
+    "Cloud computing class/Virtualization.md"
   ]
 }
