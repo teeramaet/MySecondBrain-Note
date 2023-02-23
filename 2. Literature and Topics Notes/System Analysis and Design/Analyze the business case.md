@@ -79,3 +79,18 @@ Can the project be implemented in a reasonable
 time period?
 Are the necessary financial, human, and
 technical resources available?
+
+##### Discreationary vs Nondiscretionary projects
+Dis: Management has a choice in implement the project.
+Nondis: No choice, Many are predictable
+
+## The Preliminary Investigation
+##### Planning 
+1. Understand the problem or opportunity
+2. Define the project scope and constraints 
+3. Perform fact-finding
+4. Study usability, cost, benefit, and schedule data
+5. Evaluate feasibility
+6. Present recommendations to management
+
+
