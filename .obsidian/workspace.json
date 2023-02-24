@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ad42072c1af8c97",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20230223162544.png"
-              }
-            }
-          },
-          {
             "id": "2f24c3f841028009",
             "type": "leaf",
             "state": {
@@ -174,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -303,9 +293,10 @@
   },
   "active": "68b235cce93acc17",
   "lastOpenFiles": [
+    "HTTP3.md",
+    "2. Literature and Topics Notes/Computer Networks and Internetworking/Transport layer.md",
     "Pasted image 20230225030601.png",
     "2. Literature and Topics Notes/Computer Networks and Internetworking/Introduction to computer network.md",
-    "2. Literature and Topics Notes/Computer Networks and Internetworking/Transport layer.md",
     "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
     "2. Literature and Topics Notes/Technical writing/Writing Process.md",
     "2. Literature and Topics Notes/Technical writing/3. Memos.md",
@@ -321,7 +312,6 @@
     "Pasted image 20230224141848.png",
     "Pasted image 20230224131047.png",
     "4. Distilled Notes/10 things to know before developing app with cloud native.md",
-    "HTTP3.md",
     "5. Creation and Ideas/Mobile app ideas.md",
     "Roadmap to Devops.md",
     "2. Literature and Topics Notes/Technical writing",
