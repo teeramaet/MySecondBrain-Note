@@ -6,6 +6,8 @@ Successful projects must be completed on time, within budget, meet requirements,
 ##### Project scheduling
 ##### Project monitoring
 ##### Project reporting
+	
+
 
 ##### Project triangle
 cost

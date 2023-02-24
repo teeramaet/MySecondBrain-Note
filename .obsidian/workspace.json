@@ -95,14 +95,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Managing Systems Projects.md",
+                "file": "2. Literature and Topics Notes/Technical writing/Audience and Purpose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b391b1e9b214d3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Managing Systems Projects.md",
+                "file": "Memos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Managing Systems Projects.md",
+                "file": "Memos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Managing Systems Projects.md"
+                "file": "Memos.md"
               }
             }
           }
@@ -229,16 +241,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af9adc497ad8cb5e",
+  "active": "8b391b1e9b214d3b",
   "lastOpenFiles": [
+    "2. Literature and Topics Notes/Technical writing/Audience and Purpose.md",
+    "Memos.md",
+    "2. Literature and Topics Notes/Technical writing/What is technical writing.md",
+    "Managing Systems Projects.md",
+    "Pasted image 20230223162544.png",
     "Pasted image 20230224141848.png",
     "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
-    "Managing Systems Projects.md",
     "Pasted image 20230224131047.png",
-    "2. Literature and Topics Notes/Technical writing/What is technical writing.md",
-    "2. Literature and Topics Notes/Technical writing/Audience and Purpose.md",
     "4. Distilled Notes/10 things to know before developing app with cloud native.md",
-    "Pasted image 20230223162544.png",
     "HTTP3.md",
     "Untitled",
     "5. Creation and Ideas/Mobile app ideas.md",
