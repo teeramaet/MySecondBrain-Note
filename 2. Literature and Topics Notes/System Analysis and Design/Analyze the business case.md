@@ -87,10 +87,16 @@ Nondis: No choice, Many are predictable
 ## The Preliminary Investigation
 ##### Planning 
 1. Understand the problem or opportunity
+	1. Consider using a fishbone diagram
 2. Define the project scope and constraints 
+	1. Create a list with must do, should do, could do, and won’t do sections
+	2. identify constraints
+		 ![[Pasted image 20230224131047.png]]
 3. Perform fact-finding
+		Conduct interviews
+		Review documentation
 4. Study usability, cost, benefit, and schedule data
 5. Evaluate feasibility
-6. Present recommendations to management
+6. Present recommendations to management (report)
 
 
