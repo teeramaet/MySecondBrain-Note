@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requirement engineering.md",
+                "file": "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requirement engineering.md",
+                "file": "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Requirement engineering.md",
+                "file": "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Requirement engineering.md"
+                "file": "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md"
               }
             }
           }
@@ -305,21 +305,26 @@
   },
   "active": "126d2bcb2f8ad796",
   "lastOpenFiles": [
-    "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
+    "2. Literature and Topics Notes/Cloud computing class/3. MapReduce.md",
+    "2. Literature and Topics Notes/Cloud computing class/2. Virtualization.md",
+    "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
+    "2. Literature and Topics Notes/Technical writing/Writing Process.md",
+    "2. Literature and Topics Notes/Technical writing/5. Progress Reports.md",
+    "2. Literature and Topics Notes/Technical writing/4. Letters.md",
+    "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
+    "2. Literature and Topics Notes/Computer Networks and Internetworking/Introduction to computer network.md",
+    "2. Literature and Topics Notes/Cloud computing class/7. Cloud Resource-management.md",
+    "2. Literature and Topics Notes/Cloud computing class/6. Kubernetes.md",
+    "2. Literature and Topics Notes/Cloud computing class/5. MESOS-OMEGA.md",
+    "2. Literature and Topics Notes/Cloud computing class/4. Spark.md",
     "Requirement engineering.md",
+    "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
     "2. Literature and Topics Notes/Computer Networks and Internetworking/Transport layer.md",
     "HTTP3.md",
     "Pasted image 20230225030601.png",
-    "2. Literature and Topics Notes/Computer Networks and Internetworking/Introduction to computer network.md",
-    "2. Literature and Topics Notes/Technical writing/Writing Process.md",
     "2. Literature and Topics Notes/Technical writing/3. Memos.md",
-    "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
     "2. Literature and Topics Notes/Technical writing/2. Audience and Purpose.md",
-    "2. Literature and Topics Notes/Technical writing/5. Progress Reports.md",
-    "2. Literature and Topics Notes/Technical writing/4. Letters.md",
-    "2. Literature and Topics Notes/Cloud computing class/4. Spark.md",
     "2. Literature and Topics Notes/Computer Networks and Internetworking",
-    "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
     "Managing Systems Projects.md",
     "Pasted image 20230223162544.png",
     "Pasted image 20230224141848.png",
@@ -329,18 +334,13 @@
     "Roadmap to Devops.md",
     "2. Literature and Topics Notes/Technical writing",
     "2. Literature and Topics Notes/System Analysis and Design",
-    "2. Literature and Topics Notes/Cloud computing class/7. Cloud Resource-management.md",
     "images.gitignore",
-    "2. Literature and Topics Notes/Cloud computing class/6. Kubernetes.md",
-    "2. Literature and Topics Notes/Cloud computing class/5. MESOS-OMEGA.md",
-    "2. Literature and Topics Notes/Cloud computing class/2. Virtualization.md",
     "Zettelkaten.md",
     "5. Creation and Ideas",
     "4. Distilled Notes",
     "3. Practical Notes",
     "2. Literature and Topics Notes",
     "1. Daily Notes",
-    "0. Map of Contents",
-    "2. Literature and Topics Notes/Cloud computing class/3. MapReduce.md"
+    "0. Map of Contents"
   ]
 }
