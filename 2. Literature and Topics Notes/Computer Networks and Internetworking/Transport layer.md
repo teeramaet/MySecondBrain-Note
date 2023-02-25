@@ -52,6 +52,8 @@ registered port
 private and dynamic port 
 	for OS
 
+speed of sender controlled by flow control (yellow part)
+
 
 
 
