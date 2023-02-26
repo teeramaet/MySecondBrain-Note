@@ -1,0 +1,1 @@
+Definition: good intentions, mutual admiration, respect, friendship

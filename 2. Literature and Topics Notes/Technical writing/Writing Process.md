@@ -4,7 +4,7 @@
 - Writing takes time
 - Writing is different for everyone
 
-## Plan your document
+## Plan your document (Pre-writing)
 1. Choosing a topic
 
 ## Draft and revise your document

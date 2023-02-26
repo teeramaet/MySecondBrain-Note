@@ -4,107 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1a5ccdfb12f07bc",
+        "id": "cdc385618e4def4d",
         "type": "tabs",
         "children": [
           {
-            "id": "2f24c3f841028009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36fd18da602565db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f86fc480572871f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3e2a049d8f33f24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad1f50c1fdfeddc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e134094d2f5e129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af9adc497ad8cb5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Technical writing/2. Audience and Purpose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b391b1e9b214d3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa9378c836bb0faa",
+            "id": "7701a56e734e30ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,67 +20,18 @@
             }
           },
           {
-            "id": "09a0a0b458496deb",
+            "id": "b5691cd0c54d3a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature and Topics Notes/Technical writing/3. Memos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbdacb97ca9bc950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Technical writing/3. Memos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15e381b83f2f3d47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Computer Networks and Internetworking/Introduction to computer network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68b235cce93acc17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "126d2bcb2f8ad796",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
+                "file": "Vocabulary/goodwill.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
+                "file": "2. Literature and Topics Notes/Technical writing/3. Memos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
+                "file": "2. Literature and Topics Notes/Technical writing/3. Memos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md"
+                "file": "2. Literature and Topics Notes/Technical writing/3. Memos.md"
               }
             }
           }
@@ -303,27 +158,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "126d2bcb2f8ad796",
+  "active": "7701a56e734e30ee",
   "lastOpenFiles": [
-    "2. Literature and Topics Notes/Cloud computing class/3. MapReduce.md",
-    "2. Literature and Topics Notes/Cloud computing class/2. Virtualization.md",
-    "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
+    "Pasted image 20230226171016.png",
+    "Vocabulary/goodwill.md",
+    "2. Literature and Topics Notes/Technical writing/3. Memos.md",
+    "Vocabulary",
     "2. Literature and Topics Notes/Technical writing/Writing Process.md",
     "2. Literature and Topics Notes/Technical writing/5. Progress Reports.md",
     "2. Literature and Topics Notes/Technical writing/4. Letters.md",
+    "2. Literature and Topics Notes/Technical writing/2. Audience and Purpose.md",
+    "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
     "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
     "2. Literature and Topics Notes/Computer Networks and Internetworking/Introduction to computer network.md",
+    "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
+    "2. Literature and Topics Notes/Cloud computing class/3. MapReduce.md",
+    "2. Literature and Topics Notes/Cloud computing class/2. Virtualization.md",
     "2. Literature and Topics Notes/Cloud computing class/7. Cloud Resource-management.md",
     "2. Literature and Topics Notes/Cloud computing class/6. Kubernetes.md",
     "2. Literature and Topics Notes/Cloud computing class/5. MESOS-OMEGA.md",
     "2. Literature and Topics Notes/Cloud computing class/4. Spark.md",
     "Requirement engineering.md",
-    "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
     "2. Literature and Topics Notes/Computer Networks and Internetworking/Transport layer.md",
     "HTTP3.md",
     "Pasted image 20230225030601.png",
-    "2. Literature and Topics Notes/Technical writing/3. Memos.md",
-    "2. Literature and Topics Notes/Technical writing/2. Audience and Purpose.md",
     "2. Literature and Topics Notes/Computer Networks and Internetworking",
     "Managing Systems Projects.md",
     "Pasted image 20230223162544.png",
@@ -340,7 +198,6 @@
     "4. Distilled Notes",
     "3. Practical Notes",
     "2. Literature and Topics Notes",
-    "1. Daily Notes",
-    "0. Map of Contents"
+    "1. Daily Notes"
   ]
 }
