@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng final form.md",
-                "mode": "source",
+                "file": "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eng final form.md",
+                "file": "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eng final form.md",
+                "file": "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eng final form.md"
+                "file": "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md"
               }
             }
           }
@@ -173,19 +173,28 @@
   },
   "active": "91a149d6dd26fdae",
   "lastOpenFiles": [
+    "2. Literature and Topics Notes/Technical writing/5. Progress Reports.md",
+    "2. Literature and Topics Notes/Technical writing/Writing Process.md",
     "2. Literature and Topics Notes/Technical writing/3. Memos.md",
+    "2. Literature and Topics Notes/Technical writing/2. Audience and Purpose.md",
+    "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
+    "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
+    "Pasted image 20230227144735.png",
+    "Pasted image 20230227144219.png",
+    "Pasted image 20230227143902.png",
+    "Pasted image 20230227143712.png",
+    "Pasted image 20230227143437.png",
+    "Pasted image 20230227143231.png",
+    "Pasted image 20230227143114.png",
+    "Pasted image 20230227141355.png",
+    "Pasted image 20230227141318.png",
+    "2. Literature and Topics Notes/Technical writing/4. Letters.md",
     "Eng final form.md",
     "Pasted image 20230226171016.png",
     "Vocabulary/goodwill.md",
     "Vocabulary",
-    "2. Literature and Topics Notes/Technical writing/Writing Process.md",
-    "2. Literature and Topics Notes/Technical writing/5. Progress Reports.md",
-    "2. Literature and Topics Notes/Technical writing/4. Letters.md",
-    "2. Literature and Topics Notes/Technical writing/2. Audience and Purpose.md",
     "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
-    "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
     "2. Literature and Topics Notes/Computer Networks and Internetworking/Introduction to computer network.md",
-    "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
     "2. Literature and Topics Notes/Cloud computing class/3. MapReduce.md",
     "2. Literature and Topics Notes/Cloud computing class/2. Virtualization.md",
     "2. Literature and Topics Notes/Cloud computing class/7. Cloud Resource-management.md",
@@ -195,12 +204,8 @@
     "Requirement engineering.md",
     "2. Literature and Topics Notes/Computer Networks and Internetworking/Transport layer.md",
     "HTTP3.md",
-    "Pasted image 20230225030601.png",
     "2. Literature and Topics Notes/Computer Networks and Internetworking",
     "Managing Systems Projects.md",
-    "Pasted image 20230223162544.png",
-    "Pasted image 20230224141848.png",
-    "Pasted image 20230224131047.png",
     "4. Distilled Notes/10 things to know before developing app with cloud native.md",
     "5. Creation and Ideas/Mobile app ideas.md",
     "Roadmap to Devops.md",
