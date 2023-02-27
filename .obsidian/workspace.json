@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature and Topics Notes/Technical writing/3. Memos.md",
+                "file": "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "9e778a096979246f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data and Process Modeling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b5691cd0c54d3a42",
             "type": "leaf",
             "state": {
@@ -79,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data and Process Modeling.md",
+                "file": "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data and Process Modeling.md",
+                "file": "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data and Process Modeling.md"
+                "file": "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md"
               }
             }
           }
@@ -207,21 +194,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e778a096979246f",
+  "active": "7701a56e734e30ee",
   "lastOpenFiles": [
+    "Pasted image 20230227231119.png",
+    "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
+    "2. Literature and Topics Notes/Computer Networks and Internetworking/Transport layer.md",
+    "2. Literature and Topics Notes/Computer Networks and Internetworking/Introduction to computer network.md",
+    "2. Literature and Topics Notes/Technical writing/Writing Process.md",
+    "2. Literature and Topics Notes/Technical writing/5. Progress Reports.md",
+    "Pasted image 20230227230910.png",
+    "Pasted image 20230227230927.png",
+    "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md",
     "Requirements Engineering.md",
-    "Data and Process Modeling.md",
     "Managing Systems Projects.md",
     "Managing Systems Projectd.md",
-    "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
     "Introduction to system analyst.md",
     "HTTP3.md",
-    "2. Literature and Topics Notes/Computer Networks and Internetworking/Introduction to computer network.md",
     "Eng final form.md",
     "2. Literature and Topics Notes/Technical writing/4. Letters.md",
     "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
-    "2. Literature and Topics Notes/Technical writing/5. Progress Reports.md",
-    "2. Literature and Topics Notes/Technical writing/Writing Process.md",
     "2. Literature and Topics Notes/Technical writing/3. Memos.md",
     "2. Literature and Topics Notes/Technical writing/2. Audience and Purpose.md",
     "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
@@ -233,8 +224,6 @@
     "Pasted image 20230227143231.png",
     "Pasted image 20230227143114.png",
     "Pasted image 20230227141355.png",
-    "Pasted image 20230227141318.png",
-    "Pasted image 20230226171016.png",
     "Vocabulary/goodwill.md",
     "Vocabulary",
     "2. Literature and Topics Notes/Cloud computing class/3. MapReduce.md",
@@ -244,9 +233,7 @@
     "2. Literature and Topics Notes/Cloud computing class/5. MESOS-OMEGA.md",
     "2. Literature and Topics Notes/Cloud computing class/4. Spark.md",
     "Requirement engineering.md",
-    "2. Literature and Topics Notes/Computer Networks and Internetworking/Transport layer.md",
     "2. Literature and Topics Notes/Computer Networks and Internetworking",
-    "4. Distilled Notes/10 things to know before developing app with cloud native.md",
     "2. Literature and Topics Notes/Technical writing",
     "2. Literature and Topics Notes/System Analysis and Design",
     "images.gitignore",
