@@ -13,11 +13,13 @@
 ## How to draw context diagrams
 	Start by placing a single process symbol in the center of the page. The symbol represents the entire information system, and it is identified as process 0 (the numeral zero, and not the letter O). Then place the system entities around the perimeter of the page and use data flows to connect the entities to the central process. Data stores are not shown in the context diagram because they are contained within the system and remain hidden until more detailed diagrams are created. To determine which entities and data flows to place in the context diagram, begin by reviewing the system requirements to identify all external data sources and destinations. During that process, identify the entities, the name and content of the data flows, and the direction of the data flows. If that is done carefully, and the job of fact-finding was done well in the previous stage, drawing the context diagram should be relatively easy. Now review the following context diagram examples.
 
-	Spontaneous generation. The APPLY INSURANCE PREMIUM process, for instance, produces output but has no input data flow. Because it has no input, the process is called a spontaneous generation process. • Black hole. CALCULATE GROSS PAY is called a black hole process, which is a process that has input but produces no output. • Gray hole. A gray hole is a process that has at least one input and one output, but the input obviously is insufficient to generate the output shown. For example, a date of birth input is not sufficient to produce a final grade output in the CALCULATE GRADE process
+	Spontaneous generation. The APPLY INSURANCE PREMIUM process, for instance, produces output but has no input data flow. Because it has no input, the process is called a spontaneous generation process. • Black hole. CALCULATE GROSS PAY is called a black hole process, which is a process that has input but produces no output. • Gray hole. A gray hole is a process that has at least one input and one output, but the input obviously is insufficient to generate the output shown. For example, a date of birth input is not sufficient to produce a final grade output in the CALCULATE GRADE process
 
 	A DFD shows only external entities that provide data to the system or receive output from the system.
-## How to draw diagram 0 data flow diagrams
 
+![[Pasted image 20230228013901.png]]
+## How to draw diagram 0 data flow diagrams
+![[Pasted image 20230228013836.png]]
 ## How to draw lower-level data flow diagrams
 
 ## How to level and balance data flow diagrams

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md",
+                "file": "Introduction to system analyst.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md",
+                "file": "Introduction to system analyst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md",
+                "file": "Introduction to system analyst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md"
+                "file": "Introduction to system analyst.md"
               }
             }
           }
@@ -194,17 +194,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7701a56e734e30ee",
+  "active": "4f138a16f5f85eb5",
   "lastOpenFiles": [
-    "Pasted image 20230227231119.png",
+    "2. Literature and Topics Notes/Comptia",
     "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
+    "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md",
+    "Pasted image 20230228013901.png",
+    "Pasted image 20230228013836.png",
+    "Pasted image 20230227231119.png",
     "2. Literature and Topics Notes/Computer Networks and Internetworking/Transport layer.md",
     "2. Literature and Topics Notes/Computer Networks and Internetworking/Introduction to computer network.md",
     "2. Literature and Topics Notes/Technical writing/Writing Process.md",
     "2. Literature and Topics Notes/Technical writing/5. Progress Reports.md",
     "Pasted image 20230227230910.png",
     "Pasted image 20230227230927.png",
-    "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md",
     "Requirements Engineering.md",
     "Managing Systems Projects.md",
     "Managing Systems Projectd.md",
@@ -221,9 +224,6 @@
     "Pasted image 20230227143902.png",
     "Pasted image 20230227143712.png",
     "Pasted image 20230227143437.png",
-    "Pasted image 20230227143231.png",
-    "Pasted image 20230227143114.png",
-    "Pasted image 20230227141355.png",
     "Vocabulary/goodwill.md",
     "Vocabulary",
     "2. Literature and Topics Notes/Cloud computing class/3. MapReduce.md",
