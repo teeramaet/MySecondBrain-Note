@@ -24,19 +24,19 @@
 	More support for new products and service.	
 ##### Factors Affecting Systems projects
 ###### External Factors
-Government
-Technology
-Suppliers
-The economy
-Competitors
-Customers
+	- Government
+	- Technology
+	- Suppliers
+	- The economy
+	- Competitors
+	- Customers
 ###### Internal Factors
-Strategic plan 
-Top managers
-User requests
-IT department
-Existing systems and details
-Company Finances
+	- Strategic plan 
+	- Top managers
+	- User requests
+	- IT department
+	- Existing systems and details
+	- Company Finances
 
 ### Processing System Request
 	Characteristics
