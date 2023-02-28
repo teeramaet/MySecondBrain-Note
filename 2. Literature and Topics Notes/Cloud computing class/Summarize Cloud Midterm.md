@@ -37,8 +37,7 @@
 3. Performance and reliability: 
 	- as it allows applications to migrate from one platform to another 
 4. The development and management of services offered by a provider
-## Model of virtualization
-## How difference benfit or con
+## Model of virtualization difference benfit or con
 ## Issue of VM
 1. a defense mechanism at some layer can be disabled by malware running at a layer below it.
 2. It is feasible to insert a rogue VMM, a Virtual-Machine Based Rootkit (VMBR) between the physical hardware and an operating system.
@@ -51,13 +50,24 @@
 ## xen 4.0  special 
 
 ## Mapreduce why
+	parallel computations are difficult and complex to manage: § Race conditions, debugging, data distribution, fault-tolerance, load balancing.
 ## Step of mapreduce
 ## Problem of large scale data
 
 ## Spark and spark why? is mapreduce enough
-## Batch procerssing rrdd how related 
+	Most current cluster programming models are based on acyclic data flow from stable storage to stable storage
+	common cases that spark improve
+	»Iterative algorithms (machine learning, graphs) 
+	»Interactive data mining tools (R, Excel, Python)
+## Batch procerssing rrdd how related
+	RDD is a read-only, partitioned collection of records.
+	
+	RDDs: Resilient distributed datasets (RDDs) 
+	» Immutable, partitioned collections of objects 
+	» Created through parallel transformations (map, filter, groupBy, join, …) on data in stable storage »Can be cached for efficient reuse
 
 ## gfs hdfs how diffrence
+![[Pasted image 20230301021048.png]]
 ## process related architecture  of it
 
 ## mesos omega
@@ -65,10 +75,38 @@
 ## main concept
 
 ## kubernetes
+	Kubernetes ("K8s" for short) is an open source solution for automating the deployment and dynamic scaling of containerized online applications. Kubernetes uses containers, a system in Linux that groups applications into logical units for centralized and secure management. Containers are designed to be ephemeral
 ## component model 
+1. Pod
+	1. Pods are simply the smallest unit of execution in Kubernetes, consisting of one or more containers, each with one or more application and its binaries.
+2. API server
+	1. contains various methods to directly access the Kubernetes
+3. etcd
+	1. works as backend for service discovery that stores the cluster’s state and its configuration
+4. Scheduler
+	1. assigns to each worker node an application
+5. Controller manager
+	1. Keeps track of worker nodes 
+	2. Handles node failures and replicates if needed 
+	3. Provide endpoints to access the application from the outside world
+6. Cloud controller
+	1. communicates with cloud provide regarding resources such as nodes and IP addresses
+7. Kubelet
+	1. talks to the API server and manages containers on its node
+8. Kube-proxy
+	1. load-balances network traffic between application components and the outside world
 ## how model interract
 ## objective of k8
 
 ## resource management understansd wc wc
-## dvt hgs sd credit how differnece of these three (sth ) 
+## Bvt Sedf credit how differnece of these three 
+1. BVT 
+	1. The VM effectively “borrows” virtual time from its future and thus does not disrupt long-term CPU sharing
+2. SEDF
+3. Credit
+	1. support global load balancing
+	2. provide no cpu idle
 ## best fit of these 3
+Web server: BVT
+iperf: SEDF
+disk: Credit
