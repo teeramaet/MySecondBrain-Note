@@ -52,7 +52,10 @@
 ## Mapreduce why
 	parallel computations are difficult and complex to manage: § Race conditions, debugging, data distribution, fault-tolerance, load balancing.
 ## Step of mapreduce
+![[Pasted image 20230301071443.png]]
+![[Pasted image 20230301071517.png]]
 ## Problem of large scale data
+	parallel computations are difficult and complex to manage: § Race conditions, debugging, data distribution, fault-tolerance, load balancing, etc
 
 ## Spark and spark why? is mapreduce enough
 	Most current cluster programming models are based on acyclic data flow from stable storage to stable storage
@@ -69,7 +72,8 @@
 ## gfs hdfs how diffrence
 ![[Pasted image 20230301021048.png]]
 ## process related architecture  of it
-
+![[Pasted image 20230301072211.png]]
+![[Pasted image 20230301072241.png]]
 ## mesos omega
 ## monolistic why mesos why omega
 ## main concept
@@ -104,8 +108,11 @@
 	1. The VM effectively “borrows” virtual time from its future and thus does not disrupt long-term CPU sharing
 2. SEDF
 3. Credit
-	1. support global load balancing
-	2. provide no cpu idle
+	1. For each VM, the scheduler assigns a weight and a cap. 
+		1. If cap is 0, then the VM can receive extra time (WC-mode) 
+		2. If cap is non-0, it shows the max time it can receive (NWC) 2
+	2. support global load balancing
+	3. provide no cpu idle
 ## best fit of these 3
 Web server: BVT
 iperf: SEDF
