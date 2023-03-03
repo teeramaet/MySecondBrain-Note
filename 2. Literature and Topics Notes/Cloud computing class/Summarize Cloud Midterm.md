@@ -47,6 +47,8 @@
 	2. run services, such as spam relays or distributed denial-of-service attacks. 
 	3. interfere with the application
 ## xen model
+xenstore
+toolstack
 ## xen 4.0  special 
 
 ## Mapreduce why
