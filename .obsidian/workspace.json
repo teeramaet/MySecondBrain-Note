@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d14ad9f1dfd08527",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -207,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d61098a818ed8604",
+  "active": "d14ad9f1dfd08527",
   "lastOpenFiles": [
     "2. Literature and Topics Notes/Cloud computing class/7. Cloud Resource-management.md",
     "2. Literature and Topics Notes/Cloud computing class/Summarize Cloud Midterm.md",
