@@ -11,8 +11,12 @@
             "id": "22b3283189be7083",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. Distilled Notes/Signcryption on kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature and Topics Notes/Cloud computing class/Summarize Cloud Midterm.md",
+                "file": "4. Distilled Notes/Signcryption on kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature and Topics Notes/Cloud computing class/Summarize Cloud Midterm.md",
+                "file": "4. Distilled Notes/Signcryption on kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature and Topics Notes/Cloud computing class/Summarize Cloud Midterm.md"
+                "file": "4. Distilled Notes/Signcryption on kubernetes.md"
               }
             }
           }
@@ -144,6 +148,7 @@
   },
   "active": "4f138a16f5f85eb5",
   "lastOpenFiles": [
+    "4. Distilled Notes/Signcryption on kubernetes.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+",
     "2. Literature and Topics Notes/Cloud computing class/7. Cloud Resource-management.md",
     "2. Literature and Topics Notes/Cloud computing class/Summarize Cloud Midterm.md",
@@ -188,7 +193,6 @@
     "images.gitignore",
     "5. Creation and Ideas",
     "4. Distilled Notes",
-    "3. Practical Notes",
-    "2. Literature and Topics Notes"
+    "3. Practical Notes"
   ]
 }
