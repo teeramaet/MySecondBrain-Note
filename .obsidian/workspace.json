@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/A+.md",
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,6 +50,100 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcfaace6e2fbc267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71e9a566937f2215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/2. Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa92625c691371a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/3. Hardware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "328247e330fdacae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/4. Virtualization and Cloud Computing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e516190fd0f9088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/5. Hardware and Network Troubleshooting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e21591ac4f40ab5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/6. Operating Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5b2b28a3fe10b3c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Pasted image 20230224131047.png"
+              }
+            }
+          },
+          {
+            "id": "8c09d009731d5d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +167,12 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20230307100022.png"
+                "file": "Assets/Pasted image 20230307100022.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -144,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Untitled.md"
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md"
               }
             }
           }
@@ -205,16 +299,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "155d4cb48dc4aeec",
+  "active": "8c09d009731d5d55",
   "lastOpenFiles": [
-    "2. Literature and Topics Notes/Comptia/COMPTIA A+/A+.md",
+    "Different laptops have different way to fix..md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/7. Security.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/9. Operational Procedures.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/8. Software Troubleshooting.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/6. Operating Systems.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/5. Hardware and Network Troubleshooting.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/4. Virtualization and Cloud Computing.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/4. Memory.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/3. Hardware.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/2. Networking.md",
+    "Assets/Pasted image 20230224131047.png",
+    "Assets",
+    "2. Literature and Topics Notes/Active directory/Active directory.md",
     "Templates/Untitled.md",
+    "2. Literature and Topics Notes/Active directory",
     "Templates",
     "4. Distilled Notes/Signcryption on kubernetes.md",
     "2. Literature and Topics Notes/Comptia/Comptia security+/Security+.md",
     "2. Literature and Topics Notes/PicoCTF/Information.md",
     "2. Literature and Topics Notes/PicoCTF/Basic file exploit.md",
-    "Pasted image 20230307100022.png",
+    "Assets/Pasted image 20230307100022.png",
     "2. Literature and Topics Notes/Cloud computing class/Summarize Cloud Midterm.md",
     "Mind your Ps and Qs.md",
     "2. Literature and Topics Notes/Comptia/Comptia network+",
@@ -222,36 +330,22 @@
     "2. Literature and Topics Notes/PicoCTF",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+",
     "2. Literature and Topics Notes/Cloud computing class/7. Cloud Resource-management.md",
-    "Pasted image 20230301072241.png",
-    "Pasted image 20230301072211.png",
-    "Pasted image 20230301071517.png",
-    "Pasted image 20230301071443.png",
-    "Pasted image 20230301021048.png",
-    "Pasted image 20230301000439.png",
+    "Assets/Pasted image 20230301072241.png",
+    "Assets/Pasted image 20230301072211.png",
+    "Assets/Pasted image 20230301071517.png",
+    "Assets/Pasted image 20230301071443.png",
+    "Assets/Pasted image 20230301021048.png",
+    "Assets/Pasted image 20230301000439.png",
     "Eng final form.md",
     "Introduction to system analyst.md",
     "2. Literature and Topics Notes/Comptia",
     "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
     "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md",
-    "Pasted image 20230228013901.png",
-    "Pasted image 20230228013836.png",
-    "Pasted image 20230227231119.png",
+    "Assets/Pasted image 20230228013901.png",
+    "Assets/Pasted image 20230228013836.png",
     "2. Literature and Topics Notes/Computer Networks and Internetworking/Transport layer.md",
     "2. Literature and Topics Notes/Computer Networks and Internetworking/Introduction to computer network.md",
-    "2. Literature and Topics Notes/Technical writing/Writing Process.md",
-    "2. Literature and Topics Notes/Technical writing/5. Progress Reports.md",
-    "Requirements Engineering.md",
-    "Managing Systems Projects.md",
-    "Managing Systems Projectd.md",
-    "HTTP3.md",
-    "2. Literature and Topics Notes/Technical writing/4. Letters.md",
-    "2. Literature and Topics Notes/Technical writing/1. What is technical writing.md",
-    "2. Literature and Topics Notes/Technical writing/3. Memos.md",
-    "2. Literature and Topics Notes/Technical writing/2. Audience and Purpose.md",
-    "2. Literature and Topics Notes/Cloud computing class/1. Introduction2Cloud.md",
     "Vocabulary",
-    "2. Literature and Topics Notes/Computer Networks and Internetworking",
-    "2. Literature and Topics Notes/Technical writing",
-    "2. Literature and Topics Notes/System Analysis and Design"
+    "2. Literature and Topics Notes/Computer Networks and Internetworking"
   ]
 }
