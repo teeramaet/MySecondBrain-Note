@@ -6,3 +6,4 @@ It extracts [strings of printable characters from files](https://man7.org/linux
 ### Metadata of the file
 	TigoTago
 	ExifTool
+![[Pasted image 20230307100022.png]]
