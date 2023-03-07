@@ -4,4 +4,5 @@ It extracts [strings of printable characters from files](https://man7.org/linux
 ### steghide command: 
 
 ### Metadata of the file
-
+	TigoTago
+	ExifTool
