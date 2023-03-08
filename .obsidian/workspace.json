@@ -4,175 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b53af5afa6891d52",
+        "id": "8ed9976a247ee29d",
         "type": "tabs",
         "children": [
           {
-            "id": "22b3283189be7083",
+            "id": "a29c8f445f5d0565",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Distilled Notes/Signcryption on kubernetes.md",
+                "file": "2. Literature and Topics Notes/Cloud computing class/8. NoSQL.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "39b923fd0c93bee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Comptia/Comptia security+/Security+.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de58b3cb74832f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "155d4cb48dc4aeec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcfaace6e2fbc267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71e9a566937f2215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/2. Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa92625c691371a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/3. Hardware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "328247e330fdacae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/4. Virtualization and Cloud Computing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e516190fd0f9088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/5. Hardware and Network Troubleshooting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e21591ac4f40ab5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/6. Operating Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5b2b28a3fe10b3c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20230224131047.png"
-              }
-            }
-          },
-          {
-            "id": "8c09d009731d5d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0023360c5902709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature and Topics Notes/PicoCTF/Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49975b8a864f63ca",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20230307100022.png"
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
+                "file": "2. Literature and Topics Notes/Cloud computing class/8. NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
+                "file": "2. Literature and Topics Notes/Cloud computing class/8. NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md"
+                "file": "2. Literature and Topics Notes/Cloud computing class/8. NoSQL.md"
               }
             }
           }
@@ -299,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c09d009731d5d55",
+  "active": "a29c8f445f5d0565",
   "lastOpenFiles": [
+    "2. Literature and Topics Notes/Cloud computing class/8. NoSQL.md",
+    "Assets/Pasted image 20230307100022.png",
+    "2. Literature and Topics Notes/PicoCTF/Information.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
+    "Assets/Pasted image 20230224131047.png",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/6. Operating Systems.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/5. Hardware and Network Troubleshooting.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/4. Virtualization and Cloud Computing.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/3. Hardware.md",
     "Assets/Pasted image 20230308025000.png",
     "Assets/Pasted image 20230308024953.png",
     "Assets/Pasted image 20230308024904.png",
@@ -310,17 +166,11 @@
     "Assets/Pasted image 20230308011443.png",
     "Assets/Pasted image 20230308010701.png",
     "Different laptops have different way to fix..md",
-    "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/7. Security.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/9. Operational Procedures.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/8. Software Troubleshooting.md",
-    "2. Literature and Topics Notes/Comptia/COMPTIA A+/6. Operating Systems.md",
-    "2. Literature and Topics Notes/Comptia/COMPTIA A+/5. Hardware and Network Troubleshooting.md",
-    "2. Literature and Topics Notes/Comptia/COMPTIA A+/4. Virtualization and Cloud Computing.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/4. Memory.md",
-    "2. Literature and Topics Notes/Comptia/COMPTIA A+/3. Hardware.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/2. Networking.md",
-    "Assets/Pasted image 20230224131047.png",
     "Assets",
     "2. Literature and Topics Notes/Active directory/Active directory.md",
     "Templates/Untitled.md",
@@ -328,9 +178,7 @@
     "Templates",
     "4. Distilled Notes/Signcryption on kubernetes.md",
     "2. Literature and Topics Notes/Comptia/Comptia security+/Security+.md",
-    "2. Literature and Topics Notes/PicoCTF/Information.md",
     "2. Literature and Topics Notes/PicoCTF/Basic file exploit.md",
-    "Assets/Pasted image 20230307100022.png",
     "2. Literature and Topics Notes/Cloud computing class/Summarize Cloud Midterm.md",
     "Mind your Ps and Qs.md",
     "2. Literature and Topics Notes/Comptia/Comptia network+",
@@ -338,7 +186,6 @@
     "2. Literature and Topics Notes/PicoCTF",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+",
     "2. Literature and Topics Notes/Cloud computing class/7. Cloud Resource-management.md",
-    "Assets/Pasted image 20230301072241.png",
     "Eng final form.md",
     "Introduction to system analyst.md",
     "2. Literature and Topics Notes/Comptia",
