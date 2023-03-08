@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature and Topics Notes/Cloud computing class/8. NoSQL.md",
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature and Topics Notes/Cloud computing class/8. NoSQL.md",
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature and Topics Notes/Cloud computing class/8. NoSQL.md",
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature and Topics Notes/Cloud computing class/8. NoSQL.md"
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "a29c8f445f5d0565",
   "lastOpenFiles": [
+    "Assets/Pasted image 20230308171721.png",
+    "Assets/Pasted image 20230308171558.png",
+    "Assets/Pasted image 20230308171136.png",
     "2. Literature and Topics Notes/Cloud computing class/8. NoSQL.md",
     "Assets/Pasted image 20230307100022.png",
     "2. Literature and Topics Notes/PicoCTF/Information.md",
@@ -163,8 +166,6 @@
     "Assets/Pasted image 20230308022054.png",
     "Assets/Pasted image 20230308021901.png",
     "Assets/Pasted image 20230308011751.png",
-    "Assets/Pasted image 20230308011443.png",
-    "Assets/Pasted image 20230308010701.png",
     "Different laptops have different way to fix..md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/7. Security.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/9. Operational Procedures.md",
@@ -191,7 +192,6 @@
     "2. Literature and Topics Notes/Comptia",
     "2. Literature and Topics Notes/System Analysis and Design/Analyze the business case.md",
     "2. Literature and Topics Notes/System Analysis and Design/Data and Process Modeling.md",
-    "2. Literature and Topics Notes/Computer Networks and Internetworking/Transport layer.md",
     "Vocabulary",
     "2. Literature and Topics Notes/Computer Networks and Internetworking"
   ]
