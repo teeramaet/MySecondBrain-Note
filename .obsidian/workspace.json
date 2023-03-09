@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16b328031a63dc2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/2. Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/2. Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/2. Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md"
+                "file": "2. Literature and Topics Notes/Comptia/COMPTIA A+/2. Networking.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a29c8f445f5d0565",
+  "active": "16b328031a63dc2e",
   "lastOpenFiles": [
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/Lazada JOB.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/2. Networking.md",
+    "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
     "Assets/Pasted image 20230309031730.png",
     "Assets/Pasted image 20230309030716.png",
     "Assets/Pasted image 20230309023800.png",
@@ -158,10 +174,8 @@
     "Assets/Pasted image 20230308231904.png",
     "Assets/Pasted image 20230308230205.png",
     "Assets/Pasted image 20230308230018.png",
-    "Assets/Pasted image 20230308225933.png",
     "2. Literature and Topics Notes/Cloud computing class/8. NoSQL.md",
     "2. Literature and Topics Notes/PicoCTF/Information.md",
-    "2. Literature and Topics Notes/Comptia/COMPTIA A+/1. Mobile Devices.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/6. Operating Systems.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/5. Hardware and Network Troubleshooting.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/4. Virtualization and Cloud Computing.md",
@@ -171,7 +185,6 @@
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/9. Operational Procedures.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/8. Software Troubleshooting.md",
     "2. Literature and Topics Notes/Comptia/COMPTIA A+/4. Memory.md",
-    "2. Literature and Topics Notes/Comptia/COMPTIA A+/2. Networking.md",
     "Assets",
     "2. Literature and Topics Notes/Active directory/Active directory.md",
     "Templates/Untitled.md",
