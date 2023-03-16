@@ -32,3 +32,17 @@ model
 	- secret = configmap for seccret data ex. mongo-pwd based64 encoded
 	- volume = attach physical storage to the pod
 		- can be local or remote
+
+
+
+
+Integrity protection for kubernetes 
+- Problems
+	- If all unsigned requests from the cluster are blocked by the admission controller because of no signature, it may affect the cluster
+		- Solution: 
+			- The development of a flexible profile to efficiently filter requests and changes to the resource based on the internal cluster behavior from the signature verification and to control the admission request based on the profile.
+	- It is not easy to verify the signature correctly at the admission controller because the Kubernetes resource is rewritten internally before the admission controller receives the signed Kubernetes resource.
+		- Solution:
+			- The development of an admission controller that verifies the signature of a Kubernetes resource in an admission request based on the object at the time of signature generatio
+				- we utilize the DryRun [18] function of Kubernetes to calculate the consistency between the resource in the admission request and the resource at the time of signature creation so that the signature can be verified correctly based on the original resource
+					- Dryrun => 
