@@ -1,3 +1,10 @@
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/
+### Control network access to sensitive ports[¶](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html#control-network-access-to-sensitive-ports "Permanent link")
+
+Kubernetes clusters usually listen on a range of well-defined and distinctive ports which makes it easier identify the clusters and attack them. Hence it is highly recommended to configure authentication and authorization on the cluster and cluster nodes.
+
+Here is an overview of the default ports used in Kubernetes. Make sure that your network blocks access to ports and consider limiting access to the Kubernetes API server except from trusted networks.
+
 
 Signcryption service
 - hashing
@@ -6,7 +13,7 @@ Access control
 -  where in k8s
 - how to verify
 	- cappability list (JSON file)
-	- parralell agent
+	- parralell agenthttps://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/
 	- how to interract with k8s
 service for client to sign their private key
 
