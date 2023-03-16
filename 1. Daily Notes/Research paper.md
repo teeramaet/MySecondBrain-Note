@@ -46,3 +46,4 @@ Integrity protection for kubernetes
 			- The development of an admission controller that verifies the signature of a Kubernetes resource in an admission request based on the object at the time of signature generatio
 				- we utilize the DryRun [18] function of Kubernetes to calculate the consistency between the resource in the admission request and the resource at the time of signature creation so that the signature can be verified correctly based on the original resource
 					- Dryrun => 
+				- in order to achieve signature verification of Kubernetes resources at the admission controller, we should not verify the signature of the resource included in the admission request directly. Instead, we must take into account the parts that have been changed by the internal operation of the cluster
